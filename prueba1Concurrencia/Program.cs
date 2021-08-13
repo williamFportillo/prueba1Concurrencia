@@ -72,7 +72,6 @@ namespace prueba1Concurrencia
                 tasks.Remove(task);
             }
 
-            await Task.WhenAll(msft, amzn, fb, nflx, aapl);
         }
 
 
