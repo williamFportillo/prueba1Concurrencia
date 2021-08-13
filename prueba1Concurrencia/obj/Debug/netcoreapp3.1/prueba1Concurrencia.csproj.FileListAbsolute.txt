@@ -1,0 +1,16 @@
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\prueba1Concurrencia.exe
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\prueba1Concurrencia.deps.json
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\prueba1Concurrencia.runtimeconfig.json
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\prueba1Concurrencia.runtimeconfig.dev.json
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\prueba1Concurrencia.dll
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\prueba1Concurrencia.pdb
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.AssemblyInfo.cs
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.dll
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.pdb
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.genruntimeconfig.cache
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\obj\Debug\netcoreapp3.1\prueba1Concurrencia.csproj.CopyComplete
+C:\Users\willi\source\repos\prueba1Concurrencia\prueba1Concurrencia\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
